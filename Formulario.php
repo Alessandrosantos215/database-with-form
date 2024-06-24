@@ -1,5 +1,6 @@
 
 <?php
+                     // LEMBRAR!! http://localhost/01aulaBanc/formulario.php
 // Configuração da conexão com o banco de dados
 $dbHost = 'localhost';
 $dbUsername = 'root';
